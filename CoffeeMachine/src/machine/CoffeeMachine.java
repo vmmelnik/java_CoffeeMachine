@@ -66,10 +66,10 @@ public class CoffeeMachine {
 			checkDrink(Coffee.valueOf("ESPRESSO"));
 			break;
 		case "2":
-			checkDrink(Coffee.valueOf("Latte"));
+			checkDrink(Coffee.valueOf("LATTE"));
 			break;
 		case "3":
-			checkDrink(Coffee.valueOf("Cappuccino"));
+			checkDrink(Coffee.valueOf("CAPPUCCINO"));
 			break;
 		case "back":
 			break;
